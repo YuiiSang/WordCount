@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h> 
 
-//软件工程2022级 唐浩天 202231041024
+//软件工程2022级 唐浩天 202231061024
 
 //用于计数 
 int Count(FILE *f, char op) {
